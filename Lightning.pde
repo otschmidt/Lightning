@@ -22,7 +22,7 @@ void setup()
 void draw()
 {
 	
-	
+	background(0);
 	stroke((int)(Math.random()*200),(int)(Math.random()*200),(int)(Math.random()*200));
 	while(endX <= 500)
 	{
